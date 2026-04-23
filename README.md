@@ -1,6 +1,6 @@
 # Pycno_nad5_v1_qPCR_Protocol_BeBOP
 
-[![DOI](https://zenodo.org/badge/1119236008.svg)](https://doi.org/10.5281/zenodo.17991264)
+[![DOI](https://zenodo.org/badge/1219245234.svg)](https://doi.org/10.5281/zenodo.19711947)
 
 See [NOAA-PMEL-OME_Pycno_nad5_v1_qPCR_Protocol_BeBOP.md](https://github.com/marinednadude/Pycno_nad5_v1_qPCR_Protocol_BeBOP/blob/main/NOAA-PMEL-OME_Pycno_nad5_v1_qPCR_Protocol_BeBOP.md) for detailed protocol.  
 
