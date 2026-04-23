@@ -1,4 +1,4 @@
-# Pycno_nad5_v1_qPCR_Protocol_BeBOP
+# NOAA-PMEL-OME_Pycno_nad5_v1_qPCR_Protocol_BeBOP
 
 [![DOI](https://zenodo.org/badge/1219245234.svg)](https://doi.org/10.5281/zenodo.19711947)
 
